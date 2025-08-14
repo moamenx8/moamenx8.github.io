@@ -607,6 +607,19 @@ section,
   }
 }
 
+.hero .container .btn{
+  color: white;
+  background-color: dodgerblue;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+  padding: 12px 30px;
+}
+
+.hero .container .btn:hover{
+  background-color: royalblue;
+}
+
 /*--------------------------------------------------------------
 # About Section
 --------------------------------------------------------------*/
